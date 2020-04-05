@@ -2,3 +2,4 @@ step left
 step right
 step center
 this is rainbow dance
+dance step changed now
